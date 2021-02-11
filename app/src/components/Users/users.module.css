@@ -1,0 +1,62 @@
+.userPhoto {
+width: 150px;  
+margin-left: 10%;
+margin-top: 5%;  
+}
+
+.selectedPage {
+font-weight: bold;
+}
+
+.loadingImg {
+width: 100px;
+}
+
+.name {
+color: white;
+margin-left: 12%;
+margin-bottom: 2%;
+font-size: 30px;
+}
+
+.button_follow {
+width: 110px;
+height: 27px;
+border-radius: 33%;
+border: none;
+color: white;
+margin-left: 12%; 
+background-color: #1e629c;
+}
+
+.button_follow:hover {
+background-color: #3e78aa;
+}
+
+@media (max-width: 768px) {
+    .userPhoto {
+        width: 140px;
+    }
+    .name {
+        font-size: 27px;
+    }
+}
+
+@media (max-width: 768px) {
+    .userPhoto {
+        width: 140px;
+    }
+    .name {
+        font-size: 27px;
+    }
+}
+
+
+@media (max-width: 425px) {
+    .userPhoto {
+        width: 110px;
+    }
+    .name {
+        font-size: 17px;
+    }
+}

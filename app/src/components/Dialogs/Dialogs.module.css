@@ -1,0 +1,184 @@
+.dialogs {
+display: grid;
+grid-template-columns: 2fr 10fr;
+}
+
+.dialogsItems {
+padding: 10px;
+color: white;
+line-height: 41px;
+margin-left: 100px;
+}
+
+.dialogsItems a {
+text-decoration: none;
+color: white;
+}
+
+.dialogsItems .active {
+color: gold;
+}
+
+.dialog {
+color: white;
+}
+
+.messages {
+padding: 15px;
+}
+
+.message {
+padding: 10px;
+color: white;
+margin-left: 100px;
+}
+
+.textButton {
+margin-left: 100px;
+}
+
+.buttonMessage {
+background-color: rgb(88, 88, 88);
+color: white;
+width: 110px;
+border: none;
+border-radius: 20px;
+height: 25px;
+margin-bottom: 50px;
+margin-top: 15px;
+margin-left: 20px;
+}
+
+.buttonMessage:hover {
+background-color: white;
+color: rgb(88, 88, 88);
+}
+
+@media (max-width: 700px) {
+.dialogsItems {
+padding: 8px;
+color: white;
+line-height: 39px;
+margin-left: 90px;
+}
+.textButton {
+margin-left: 90px;
+}
+.message {
+padding: 10px;
+margin-left: 90px;
+}
+}
+
+@media (max-width: 650px) {
+.dialogsItems {
+padding: 7px;
+color: white;
+line-height: 36px;
+margin-left: 80px;
+}
+.textButton {
+margin-left: 80px;
+}
+.message {
+padding: 10px;
+margin-left: 80px;
+}
+}
+
+@media (max-width: 600px) {
+.dialogsItems {
+padding: 6px;
+color: white;
+line-height: 34px;
+margin-left: 70px;
+}
+.textButton {
+margin-left: 70px;
+}
+.message {
+padding: 10px;
+margin-left: 70px;
+}
+}
+
+@media (max-width: 550px) {
+.tAria {
+margin: 0;
+}
+.dialogsItems {
+padding: 6px;
+color: white;
+line-height: 32px;
+margin-left: 60px;
+}
+.textButton {
+margin-left: 60px;
+}
+.dialogs {
+font-size: 15px;
+}
+.message {
+padding: 10px;
+margin-left: 30px;
+}
+.buttonMessage{
+width: 90px;
+margin-bottom: 50px;
+margin-top: 14px;
+margin-left: 18px;
+}
+.textButton {
+margin-left: 60px;
+}
+}
+
+@media (max-width: 500px) {
+.dialogs {
+font-size: 12px;
+}
+.dialogsItems {
+padding: 6px;
+color: white;
+line-height: 30px;
+margin-left: 50px;
+}
+.textButton {
+margin-left: 40px;
+}
+.message {
+padding: 8px;
+margin-left: 20px;
+}
+.buttonMessage{
+width: 80px;
+margin-bottom: 40px;
+margin-top: 12px;
+margin-left: 50px;
+}
+}
+
+@media (max-width: 450px) {
+.dialogs {
+font-size: 10px;
+}
+.dialogsItems {
+padding: 6px;
+color: white;
+line-height: 30px;
+margin-left: 30px;
+}
+.textButton {
+margin-left: 20px;
+}
+.message {
+padding: 8px;
+margin-left: 10px;
+}
+.buttonMessage{
+width: 60px;
+margin-bottom: 25px;
+margin-top: 10px;
+margin-left: 20px;
+}
+}

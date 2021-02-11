@@ -1,0 +1,121 @@
+h3 {
+    font-size: 25px;
+    font-family: 'Langar', cursive;
+    color: #c1ffff;
+}
+
+.postBlock {
+padding: 15px
+}
+
+.posts {
+margin-top: 5px;
+}
+
+.post_button {
+    background-color: rgb(88, 88, 88);
+    color: white;
+    width: 110px;
+    border: none;
+    border-radius: 20px;
+    height: 25px;
+    margin-bottom: 50px;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+.post_button:hover {
+    background-color: white;
+    color: rgb(88, 88, 88);
+}
+
+textarea {
+    border-radius: 5%;
+}
+
+@media (max-width: 500px) {
+    textarea {
+        width: 146px;
+    }
+    .post_button {
+        width: 109px;
+    }
+}
+
+@media (max-width: 480px) {
+    textarea {
+        width: 145px;
+    }
+    .post_button {
+        width: 108px;
+    }
+}
+
+@media (max-width: 470px) {
+    textarea {
+        width: 145px;
+    }
+    .post_button {
+        width: 107px;
+    }
+}
+
+@media (max-width: 450px) {
+    textarea {
+        width: 145px;
+    }
+    .post_button {
+        width: 106px;
+    }
+}
+
+@media (max-width: 430px) {
+    textarea {
+        width: 144px;
+    }
+    .post_button {
+        width: 105px;
+    }
+}
+
+@media (max-width: 410px) {
+    textarea {
+        width: 143px;
+    }
+    .post_button {
+        width: 104px;
+    }
+}
+
+@media (max-width: 390px) {
+    textarea {
+        width: 142px;
+    }
+    .post_button {
+        width: 103px;
+    }
+}
+
+@media (max-width: 370px) {
+    textarea {
+        width: 141px;
+    }
+}
+
+@media (max-width: 350px) {
+    textarea {
+        width: 140px;
+    }
+}
+
+@media (max-width: 340px) {
+    textarea {
+        width: 139px;
+    }
+}
+
+@media (max-width: 320px) {
+    textarea {
+        width: 138px;
+    }
+}

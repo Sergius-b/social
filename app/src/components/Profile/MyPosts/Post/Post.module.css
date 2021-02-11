@@ -1,0 +1,12 @@
+.item img {
+width: 50px;
+border-radius: 50%;
+}
+
+.like img {
+width: 20px;
+}
+
+.item {
+color: white;
+}

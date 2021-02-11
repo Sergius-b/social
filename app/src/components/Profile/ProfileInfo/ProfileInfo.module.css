@@ -1,0 +1,97 @@
+img {
+    width: 1100px;
+}
+
+.descriptionBlock {
+    padding: 15px;
+}
+
+.avatarImg {
+    width: 200px;
+    border-radius: 50%;
+    padding: 20px;
+}
+
+.postItem {
+    color: white;
+}
+
+@media (max-width: 1150px) {
+    .avatarImg {
+        width: 200px;
+    }
+}
+
+@media (max-width: 1100px) {
+    .avatarImg {
+        width: 190px;
+    }
+}
+
+@media (max-width: 1050px) {
+    .avatarImg {
+        width: 180px;
+    }
+}
+
+@media (max-width: 1000px) {
+    img {
+        width: 170px;
+    }
+}
+
+@media (max-width: 950px) {
+    .avatarImg {
+        width: 160px;
+    }
+}
+
+@media (max-width: 900px) {
+    .avatarImg {
+        width: 150px;
+    }
+}
+
+@media (max-width: 850px) {
+    .avatarImg {
+        width: 140px;
+    }
+}
+
+@media (max-width: 800px) {
+    .avatarImg {
+        width: 130px;
+    }
+}
+
+@media (max-width: 750px) {
+    .avatarImg {
+        width: 120px;
+    }
+}
+
+@media (max-width: 700px) {
+    .avatarImg {
+        width: 110px;
+    }
+}
+
+@media (max-width: 650px) {
+    .avatarImg {
+        width: 100px;
+    }
+}
+
+
+@media (max-width: 600px) {
+    .avatarImg {
+        width: 95px;
+    }
+}
+
+
+@media (max-width: 550px) {
+    .avatarImg {
+        width: 90px;
+    }
+}

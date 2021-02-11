@@ -1,0 +1,305 @@
+.app-wraper {
+    margin: 0 auto;
+    display: grid;
+    /* width: 1320px; */
+    grid-template-rows: 60px 1fr;
+    grid-template-columns: 2fr 10fr;
+    grid-template-areas: 
+    "h h" "n c";
+    overflow: hidden;
+}
+
+.app-wraper-content {
+    background: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.35)), url('http://desktopwallpapers.org.ua/pic/201303/1152x864/desktopwallpapers.org.ua-25234.jpg')
+}
+
+@media (max-width: 2560px) {
+    .app-wraper {
+        width: 2560px;
+        grid-template-columns: 330px 10fr;
+    }
+}
+
+@media (max-width: 2420px) {
+    .app-wraper {
+        width: 2420px;
+    }
+}
+
+@media (max-width: 2300px) {
+    .app-wraper {
+        width: 2300px;
+        grid-template-columns: 330px 10fr;
+    }
+}
+
+@media (max-width: 2250px) {
+    .app-wraper {
+        grid-template-columns: 325px 10fr;
+    }
+}
+
+
+@media (max-width: 2200px) {
+    .app-wraper {
+        width: 2200px;
+        grid-template-columns: 325px 10fr;
+    }
+}
+
+@media (max-width: 2100px) {
+    .app-wraper {
+        width: 2100px;
+        grid-template-columns: 310px 10fr;
+    }
+}
+
+@media (max-width: 2000px) {
+    .app-wraper {
+        width: 2000px;
+        grid-template-columns: 300px 10fr;
+    }
+}
+
+@media (max-width: 1900px) {
+    .app-wraper {
+        width: 1900px;
+        grid-template-columns: 290px 10fr;
+    }
+}
+
+@media (max-width: 1850px) {
+    .app-wraper {
+        width: 1850px;
+        grid-template-columns: 280px 10fr;
+    }
+}
+
+@media (max-width: 1800px) {
+    .app-wraper {
+        width: 1800px;
+        grid-template-columns: 270px 10fr;
+    }
+}
+
+@media (max-width: 1750px) {
+    .app-wraper {
+        width: 1750px;
+        grid-template-columns: 260px 10fr;
+    }
+}
+
+@media (max-width: 1700px) {
+    .app-wraper {
+        width: 1700px;
+        grid-template-columns: 250px 10fr;
+    }
+}
+
+@media (max-width: 1650px) {
+    .app-wraper {
+        width: 1650px;
+        grid-template-columns: 240px 10fr;
+    }
+}
+
+@media (max-width: 1600px) {
+    .app-wraper {
+        width: 1600px;
+        grid-template-columns: 230px 10fr;
+    }
+}
+
+@media (max-width: 1550px) {
+    .app-wraper {
+        width: 1550px;
+        grid-template-columns: 225px 10fr;
+    }
+}
+
+@media (max-width: 1500px) {
+    .app-wraper {
+        width: 1500px;
+        grid-template-columns: 220px 10fr;
+    }
+}
+
+@media (max-width: 1450px) {
+    .app-wraper {
+        width: 1450px;
+        grid-template-columns: 215px 10fr;
+    }
+}
+
+@media (max-width: 1400px) {
+    .app-wraper {
+        width: 1400px;
+        grid-template-columns: 210px 10fr;
+    }
+}
+
+@media (max-width: 1350px) {
+    .app-wraper {
+        width: 1350px;
+        grid-template-columns: 205px 10fr;
+    }
+}
+
+@media (max-width: 1300px) {
+    .app-wraper {
+        width: 1300px;
+        grid-template-columns: 200px 10fr;
+    }
+}
+
+@media (max-width: 1250px) {
+    .app-wraper {
+        width: 1250px;
+        grid-template-columns: 195px 10fr;
+    }
+}
+
+@media (max-width: 1200px) {
+    .app-wraper {
+        width: 1200px;
+        grid-template-columns: 190px 10fr;
+    }
+}
+
+@media (max-width: 1150px) {
+    .app-wraper {
+        width: 1150px;
+        grid-template-columns: 185px 10fr;
+    }
+}
+
+@media (max-width: 1100px) {
+    .app-wraper {
+        width: 1100px;
+        grid-template-columns: 180px 10fr;
+    }
+}
+
+@media (max-width: 1050px) {
+    .app-wraper {
+        width: 1050px;
+        grid-template-columns: 175px 10fr;
+    }
+}
+
+@media (max-width: 1000px) {
+    .app-wraper {
+        width: 1000px;
+        grid-template-columns: 170px 10fr;
+    }
+}
+
+@media (max-width: 950px) {
+    .app-wraper {
+        width: 950px;
+        grid-template-columns: 165px 10fr;
+    }
+}
+
+@media (max-width: 900px) {
+    .app-wraper {
+        width: 900px;
+        grid-template-columns: 160px 10fr;
+    }
+}
+
+@media (max-width: 850px) {
+    .app-wraper {
+        width: 850px;
+        grid-template-columns: 155px 10fr;
+    }
+}
+
+@media (max-width: 800px) {
+    .app-wraper {
+        width: 800px;
+        grid-template-columns: 150px 10fr;
+    }
+}
+
+@media (max-width: 750px) {
+    .app-wraper {
+        width: 750px;
+        grid-template-columns: 145px 10fr;
+    }
+}
+
+@media (max-width: 700px) {
+    .app-wraper {
+        width: 700px;
+        grid-template-columns: 140px 10fr;
+    }
+}
+
+@media (max-width: 650px) {
+    .app-wraper {
+        width: 650px;
+        grid-template-columns: 135px 10fr;
+    }
+}
+
+@media (max-width: 600px) {
+    .app-wraper {
+        width: 600px;
+        grid-template-columns: 130px 10fr;
+    }
+}
+
+
+@media (max-width: 550px) {
+    .app-wraper {
+        width: 550px;
+        grid-template-columns: 125px 10fr;
+    }
+}
+
+
+@media (max-width: 500px) {
+    .app-wraper {
+        width: 500px;
+        grid-template-columns: 120px 10fr;
+    }
+}
+
+
+@media (max-width: 450px) {
+    .app-wraper {
+        width: 450px;
+        grid-template-columns: 115px 10fr;
+    }
+}
+
+
+@media (max-width: 400px) {
+    .app-wraper {
+        width: 400px;
+        grid-template-columns: 110px 10fr;
+    }
+}
+
+
+@media (max-width: 350px) {
+    .app-wraper {
+        width: 350px;
+        grid-template-columns: 105px 10fr;
+    }
+}
+
+@media (max-width: 320px) {
+    .app-wraper {
+        width: 320px;
+        grid-template-columns: 100px 10fr;
+    }
+}
+
+@media (max-width: 300px) {
+    .app-wraper {
+        width: 300px;
+        grid-template-columns: 100px 10fr;
+    }
+}

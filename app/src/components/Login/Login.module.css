@@ -1,0 +1,692 @@
+.formField input {
+    width: 300px;
+    height: 30px;
+    margin: 10px 0;
+    border-radius: 10px;
+    border: none;
+}
+
+.signin {
+    border-radius: 20%;
+}
+
+@media (max-width: 2560px) {
+    .form {
+        width: 2560px;
+    }   
+
+    .formField input {
+        width: 400px;
+        height: 40px;
+    }
+
+    .form h3 {
+        font-size: 45px;
+    }
+}
+
+@media (max-width: 2500px) {
+    .form {
+        width: 2500px;
+    }   
+
+    .formField input {
+        width: 380px;
+        height: 40px;
+    }
+
+    .form h3 {
+        font-size: 45px;
+    }
+}
+
+@media (max-width: 2450px) {
+    .form {
+        width: 2450px;
+    }   
+
+    .formField input {
+        width: 370px;
+        height: 40px;
+    }
+
+    .form h3 {
+        font-size: 45px;
+    }
+}
+
+@media (max-width: 2400px) {
+    .form {
+        width: 2400px;
+    }   
+
+    .formField input {
+        width: 360px;
+        height: 40px;
+    }
+
+    .form h3 {
+        font-size: 45px;
+    }
+}
+
+@media (max-width: 2350px) {
+    .form {
+        width: 2350px;
+    }   
+
+    .formField input {
+        width: 350px;
+        height: 40px;
+    }
+
+    .form h3 {
+        font-size: 45px;
+    }
+}
+
+@media (max-width: 2300px) {
+    .form {
+        width: 2300px;
+    }   
+
+    .formField input {
+        width: 340px;
+        height: 40px;
+    }
+
+    .form h3 {
+        font-size: 45px;
+    }
+}
+
+@media (max-width: 2250px) {
+    .form {
+        width: 2250px;
+    }   
+
+    .formField input {
+        width: 330px;
+        height: 40px;
+    }
+
+    .form h3 {
+        font-size: 45px;
+    }
+}
+
+@media (max-width: 2200px) {
+    .form {
+        width: 2200px;
+    }   
+
+    .formField input {
+        width: 330px;
+        height: 40px;
+    }
+
+    .form h3 {
+        font-size: 45px;
+    }
+}
+
+
+@media (max-width: 2150px) {
+    .form {
+        width: 2150px;
+    }   
+
+    .formField input {
+        width: 330px;
+        height: 40px;
+    }
+
+    .form h3 {
+        font-size: 45px;
+    }
+}
+
+
+@media (max-width: 2100px) {
+    .form {
+        width: 2100px;
+    }   
+
+    .formField input {
+        width: 330px;
+        height: 40px;
+    }
+
+    .form h3 {
+        font-size: 45px;
+    }
+}
+
+@media (max-width: 2050px) {
+    .form {
+        width: 2050px;
+    }   
+
+    .formField input {
+        width: 330px;
+        height: 40px;
+    }
+
+    .form h3 {
+        font-size: 45px;
+    }
+}
+
+@media (max-width: 2000px) {
+    .form {
+        width: 2000px;
+    }   
+
+    .formField input {
+        width: 330px;
+        height: 40px;
+    }
+
+    .form h3 {
+        font-size: 45px;
+    }
+}
+
+@media (max-width: 1950px) {
+    .form {
+        width: 1950px;
+    }   
+
+    .formField input {
+        width: 330px;
+        height: 40px;
+    }
+
+    .form h3 {
+        font-size: 45px;
+    }
+}
+
+@media (max-width: 1900px) {
+    .form {
+        width: 1900px;
+    }   
+
+    .formField input {
+        width: 325px;
+        height: 40px;
+    }
+
+    .form h3 {
+        font-size: 45px;
+    }
+}
+
+@media (max-width: 1850px) {
+    .form {
+        width: 1850px;
+    }   
+
+    .formField input {
+        width: 320px;
+        height: 40px;
+    }
+
+    .form h3 {
+        font-size: 45px;
+    }
+}
+
+@media (max-width: 1800px) {
+    .form {
+        width: 1800px;
+    }   
+
+    .formField input {
+        width: 315px;
+        height: 40px;
+    }
+
+    .form h3 {
+        font-size: 45px;
+    }
+}
+
+@media (max-width: 1750px) {
+    .form {
+        width: 1750px;
+    }   
+
+    .formField input {
+        width: 310px;
+        height: 40px;
+    }
+
+    .form h3 {
+        font-size: 42px;
+    }
+}
+
+@media (max-width: 1700px) {
+    .form {
+        width: 1700px;
+    }   
+
+    .formField input {
+        width: 305px;
+        height: 38px;
+    }
+
+    .form h3 {
+        font-size: 40px;
+    }
+}
+
+@media (max-width: 1650px) {
+    .form {
+        width: 1650px;
+    }   
+
+    .formField input {
+        width: 300px;
+        height: 37px;
+    }
+
+    .form h3 {
+        font-size: 38px;
+    }
+}
+
+@media (max-width: 1600px) {
+    .form {
+        width: 1600px;
+    }   
+
+    .formField input {
+        width: 295px;
+        height: 36px;
+    }
+
+    .form h3 {
+        font-size: 36px;
+    }
+}
+
+@media (max-width: 1550px) {
+    .form {
+        width: 1550px;
+    }   
+
+    .formField input {
+        width: 290px;
+        height: 34px;
+    }
+
+    .form h3 {
+        font-size: 34px;
+    }
+}
+
+@media (max-width: 1500px) {
+    .form {
+        width: 1500px;
+    }   
+
+    .formField input {
+        width: 285px;
+        height: 33px;
+    }
+
+    .form h3 {
+        font-size: 32px;
+    }
+}
+
+@media (max-width: 1450px) {
+    .form {
+        width: 1450px;
+    }   
+
+    .formField input {
+        width: 280px;
+        height: 32px;
+    }
+
+    .form h3 {
+        font-size: 30px;
+    }
+}
+
+@media (max-width: 1400px) {
+    .form {
+        width: 1400px;
+    }   
+
+    .formField input {
+        width: 275px;
+        height: 31px;
+    }
+
+    .form h3 {
+        font-size: 28px;
+    }
+}
+
+@media (max-width: 1350px) {
+    .form {
+        width: 1350px;
+    }   
+
+    .formField input {
+        width: 270px;
+        height: 30px;
+    }
+
+    .form h3 {
+        font-size: 28px;
+    }
+}
+
+@media (max-width: 1300px) {
+    .form {
+        width: 1300px;
+    }   
+
+    .formField input {
+        width: 265px;
+        height: 29px;
+    }
+
+    .form h3 {
+        font-size: 27px;
+    }
+}
+
+@media (max-width: 1250px) {
+    .form {
+        width: 1250px;
+    }   
+
+    .formField input {
+        width: 260px;
+        height: 28px;
+    }
+
+    .form h3 {
+        font-size: 26px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .form {
+        width: 1200px;
+    }   
+
+    .formField input {
+        width: 260px;
+        height: 27px;
+    }
+
+    .form h3 {
+        font-size: 26px;
+    }
+}
+
+@media (max-width: 1150px) {
+    .form {
+        width: 1150px;
+    }   
+
+    .formField input {
+        width: 260px;
+        height: 26px;
+    }
+
+    .form h3 {
+        font-size: 26px;
+    }
+}
+
+@media (max-width: 1100px) {
+    .form {
+        width: 1100px;
+    }   
+
+    .formField input {
+        width: 260px;
+        height: 26px;
+    }
+
+    .form h3 {
+        font-size: 26px;
+    }
+}
+
+@media (max-width: 1050px) {
+    .form {
+        width: 1050px;
+    }   
+
+    .formField input {
+        width: 260px;
+        height: 26px;
+    }
+
+    .form h3 {
+        font-size: 26px;
+    }
+}
+
+@media (max-width: 1000px) {
+    .form {
+        width: 1000px;
+    }   
+
+    .formField input {
+        width: 260px;
+        height: 26px;
+    }
+
+    .form h3 {
+        font-size: 26px;
+    }
+}
+
+@media (max-width: 950px) {
+    .form {
+        width: 950px;
+    }   
+
+    .formField input {
+        width: 250px;
+        height: 26px;
+    }
+
+    .form h3 {
+        font-size: 26px;
+    }
+}
+
+@media (max-width: 900px) {
+    .form {
+        width: 900px;
+    }   
+
+    .formField input {
+        width: 240px;
+        height: 26px;
+    }
+
+    .form h3 {
+        font-size: 26px;
+    }
+}
+
+@media (max-width: 850px) {
+    .form {
+        width: 850px;
+    }   
+
+    .formField input {
+        width: 230px;
+        height: 26px;
+    }
+
+    .form h3 {
+        font-size: 25px;
+    }
+}
+
+@media (max-width: 800px) {
+    .form {
+        width: 800px;
+    }   
+
+    .formField input {
+        width: 220px;
+        height: 26px;
+    }
+
+    .form h3 {
+        font-size: 24px;
+    }
+}
+
+@media (max-width: 750px) {
+    .form {
+        width: 750px;
+    }   
+
+    .formField input {
+        width: 210px;
+        height: 26px;
+    }
+
+    .form h3 {
+        font-size: 23px;
+    }
+}
+
+@media (max-width: 700px) {
+    .form {
+        width: 700px;
+    }   
+
+    .formField input {
+        width: 200px;
+        height: 26px;
+    }
+
+    .form h3 {
+        font-size: 22px;
+    }
+}
+
+@media (max-width: 650px) {
+    .form {
+        width: 650px;
+    }   
+
+    .formField input {
+        width: 190px;
+        height: 26px;
+    }
+
+    .form h3 {
+        font-size: 21px;
+    }
+}
+
+@media (max-width: 600px) {
+    .form {
+        width: 600px;
+    }   
+
+    .formField input {
+        width: 180px;
+        height: 20px;
+    }
+
+    .form h3 {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 550px) {
+    .form {
+        width: 550px;
+    }   
+
+    .formField input {
+        width: 170px;
+        height: 19px;
+    }
+
+    .form h3 {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 500px) {
+    .form {
+        width: 500px;
+    }   
+
+    .formField input {
+        width: 160px;
+        height: 18px;
+    }
+
+    .form h3 {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 450px) {
+    .form {
+        width: 450px;
+    }   
+
+    .formField input {
+        width: 150px;
+        height: 17px;
+    }
+
+    .form h3 {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 400px) {
+    .form {
+        width: 400px;
+    }   
+
+    .formField input {
+        width: 140px;
+        height: 16px;
+    }
+
+    .form h3 {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 350px) {
+    .form {
+        width: 350px;
+    }   
+
+    .formField input {
+        width: 130px;
+        height: 15px;
+    }
+
+    .form h3 {
+        font-size: 20px;
+    }
+}
+
+
+
+
